@@ -1,2 +1,2 @@
-# TheoremHub_Frontend
+# TheoremHubUi
 A collection of formulas and constants
