@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/QuantumJunction/TheoremHubUI#readme",
   "dependencies": {
+    "@opengovsg/credits-generator": "^1.0.7",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },

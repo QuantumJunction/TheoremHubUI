@@ -21,3 +21,10 @@ To install dependencies while allowing updates within the version ranges specifi
 ```shell
 npm install
 ```
+
+## Handling Credits
+
+For all npm packages simply use
+``` shell
+npx @opengovsg/credits-generator
+```
